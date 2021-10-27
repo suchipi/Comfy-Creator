@@ -57,7 +57,7 @@ The primary goal of this modpack is making something fun and balanced that doesn
     - Create a witch's cauldron and brew things
 - Create Stargate-like portals for warping across large distances (even between dimensions). 
 - Energy-based item storage (like a huge chest with a search bar).
-- Make any block behave like another; useful for fake walls, hidden redstone, etc.
+- Make blocks secretly something else; useful for hiding redstone, secret walls you can walk through, etc.
 - New structures generated in the world (out of vanilla blocks).
 - Sometimes there's valuable items frozen in the ice!
 - Right-click on any sign to edit it.
@@ -132,7 +132,6 @@ The primary goal of this modpack is making something fun and balanced that doesn
 - Wear a silly mask!
 - Make a room with lots of secrets and fake walls/floors. Use hidden pressure plates, too!
 - Run redstone right up the walls to hide contraptions more easily (use the redstone pen or redstone quill)
-- Disguise a cactus as another block, and surprise your friends when they get hurt by it!
 - Use Applied Energistics 2 to solve your item organization problems!
 - Build a traditional Japanese village!
 - Make a scale replica of a famous building, then cause a nuclear meltdown inside to destroy it!
