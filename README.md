@@ -31,6 +31,7 @@ The primary goal of this modpack is making something fun and balanced that doesn
 - Days are now 20 minutes long (instead of 10). Nights are still 10 minutes long.
 - You can make your own paintings and play musical instruments.
 - Press Z to sit, and C to go prone. You can climb through 1x1 tunnels while prone.
+- Press T to toggle a trash slot in your inventory.
 - More compact redstone, including items for standard logic gates (AND, OR, XOR, etc).
 - Craftable chunk loaders to keep your farms going even when you're away.
 - Clear and connecting glass, so your windows don't have a ton of windowpanes in the middle.
