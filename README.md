@@ -148,8 +148,6 @@ The primary goal of this modpack is making something fun and balanced that doesn
 
 ## Known Problems
 
-- Zombie hands spawn in the nether. They shouldn't.
-- Zombie hands have a very small hitbox. You have to hit them right in the middle of their shadow.
 - The sound culling/blocking/volume changes don't load properly when the game starts. As a workaround, press Ctrl+I to open the sound interface, and press "Done". Your previous changes will now be applied.
 - There is a bug where sometimes you don't automatically get out of bed once it's morning. You'll have to get out of bed manually.
 - Due to the optimized renderer, the blocks that Portality portals are made out of are invisible when in a player inventory or chest. They're still there, though, and will become visible once placed down.
@@ -256,3 +254,4 @@ The primary goal of this modpack is making something fun and balanced that doesn
 - [Jade 🔍 (by Snownee\_)](https://www.curseforge.com/minecraft/mc-mods/jade)
 - [Morph-o-Tool (Original by VazkiiMods, modified by suchipi)](https://github.com/suchipi/Morph-o-Tool)
 - [XercaMod (by xerca0)](https://www.curseforge.com/minecraft/mc-mods/xercamod)
+- [Bad Mobs (by DarkhaxDev)](https://www.curseforge.com/minecraft/mc-mods/bad-mobs)
