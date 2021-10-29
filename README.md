@@ -151,7 +151,7 @@ The primary goal of this modpack is making something fun and balanced that doesn
 - Zombie hands spawn in the nether. They shouldn't.
 - Zombie hands have a very small hitbox. You have to hit them right in the middle of their shadow.
 - The sound culling/blocking/volume changes don't load properly when the game starts. As a workaround, press Ctrl+I to open the sound interface, and press "Done". Your previous changes will now be applied.
-- There is a bug where you don't automatically get out of bed once it's morning. You'll have to get out of bed manually.
+- There is a bug where sometimes you don't automatically get out of bed once it's morning. You'll have to get out of bed manually.
 - Due to the optimized renderer, the blocks that Portality portals are made out of are invisible when in a player inventory or chest. They're still there, though, and will become visible once placed down.
 - If you put a Portality portal in a chunk loaded by a chunk loader, undesirable and potentially server-crashing behavior can occur. To avoid this, never use Portality portals in chunk-loaded chunks.
   - Specifically: When you dial another portal, Portality forceloads the chunk where the other portal is. When the connection is closed, both ends get un-forceloaded. This can be bad if there is a chunk loader in the same chunk as one of the portals, because the chunkloader forceloads it, and the portal un-forceloads it, so it ends up not forceloaded even though there's a chunk loader in the chunk.
