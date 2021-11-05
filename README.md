@@ -40,6 +40,8 @@ The primary goal of this modpack is making something fun and balanced that doesn
 - Most resources are farmable, with some work.
 - Days are now 20 minutes long (instead of 10). Nights are still 10 minutes long.
 - You can make your own paintings and play musical instruments.
+- Completely overhauled End Dimension, with new biomes, ores, etc.
+- When you first start the game, you have the option to play as a different race with different tradeoffs ([Origins](https://www.curseforge.com/minecraft/mc-mods/origins)).
 - Press Z to sit, and C to go prone. You can climb through 1x1 tunnels while prone.
 - Press T to toggle a trash slot in your inventory.
 - More compact redstone, including items for standard logic gates (AND, OR, XOR, etc).
@@ -101,6 +103,8 @@ The primary goal of this modpack is making something fun and balanced that doesn
 - The tutorial toast messages in the top-right are disabled.
 - Player ping and server tickrate are viewable in the player list (hold tab).
 - You can craft coal into 8 mini-coal, which each can smelt one item. This helps you avoid wasting coal.
+- You can combine two slabs into the same block.
+- You can put window panes and iron bars inside of stair/slab blocks.
 - And more, since I probably forgot stuff :p
 
 ## Installation Instructions (Client)
@@ -265,3 +269,8 @@ The primary goal of this modpack is making something fun and balanced that doesn
 - [Morph-o-Tool (Original by VazkiiMods, modified by suchipi)](https://github.com/suchipi/Morph-o-Tool)
 - [XercaMod (by xerca0)](https://www.curseforge.com/minecraft/mc-mods/xercamod)
 - [Bad Mobs (by DarkhaxDev)](https://www.curseforge.com/minecraft/mc-mods/bad-mobs)
+- [Origins (Forge) by EdwinMindcraft](https://www.curseforge.com/minecraft/mc-mods/origins-forge)
+- [Caelus API (Forge) by TheIllusiveC4](https://www.curseforge.com/minecraft/mc-mods/caelus)
+- [BetterEnd Reforked by someoneelsewastaken](https://www.curseforge.com/minecraft/mc-mods/betterend-re-forked)
+- [Double Slabs by CJMinecraft01](https://www.curseforge.com/minecraft/mc-mods/double-slabs)
+- [Improved Windows by CreepSkeet\_](https://www.curseforge.com/minecraft/mc-mods/improved-windows)
