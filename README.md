@@ -24,7 +24,6 @@ The primary goal of this modpack is making something fun and balanced that doesn
 
 ## Modpack Goals
 
-
 - Give players a lot of different things they can do.
 - Encourage player creativity, while still in survival mode.
 - Don't make things feel overwhelming or pointless.
@@ -108,7 +107,7 @@ The primary goal of this modpack is making something fun and balanced that doesn
 
 ## Installation Instructions (Client)
 
-- Download the latest zip from the "releases" tab in GitHub
+- Download the [latest zip (click Comfy.Creator-x.x.x-public.zip) on this page](https://github.com/suchipi/Comfy-Creator/releases/latest)
 - Don't unzip it
 - Open [the CurseForge app](https://download.curseforge.com/)
 - Click on Minecraft
