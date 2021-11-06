@@ -82,7 +82,6 @@ The primary goal of this modpack is making something fun and balanced that doesn
 - An overlay on top of the hunger meter shows how much saturation you have, how much energy you're using, and how much health, hunger, and saturation food in your hand will give you.
 - Two players can ride one horse.
 - There is a dummy you can hit to see the DPS of your weapon.
-- Everything anyone says in chat gets owo-ified. (Remove the Uwuize-Chat mod if you don't want this)
 - There are emoji you can use in chat.
 - The game is heavily optimized, with a faster rendering engine and multithreaded mod loading.
 - Mipmapping and antialiasing look better than in normal Minecraft.
@@ -168,7 +167,6 @@ The primary goal of this modpack is making something fun and balanced that doesn
 - If you put a Portality portal in a chunk loaded by a chunk loader, undesirable and potentially server-crashing behavior can occur. To avoid this, never use Portality portals in chunk-loaded chunks.
   - Specifically: When you dial another portal, Portality forceloads the chunk where the other portal is. When the connection is closed, both ends get un-forceloaded. This can be bad if there is a chunk loader in the same chunk as one of the portals, because the chunkloader forceloads it, and the portal un-forceloads it, so it ends up not forceloaded even though there's a chunk loader in the chunk.
   - Additionally, if there's an item-creating farm in the chunk, and the portal disables its forceloading, and a chunk *adjacent* to the now-un-forceloaded chunk is forceloaded, then the chunk with the item farm will now [be "Ticking" but not "Entity Ticking"](https://minecraft.fandom.com/wiki/Chunk#Tickets), which means the item entities that are being created by the farm will never fall onto the appropriate hopper/lava/etc. This can end up crashing the server, because there's so many item entities in that chunk.
-- The `:shortcodes:` for emoji get owo-ified before they turn into emoji, so a lot of emoji don't work. Remove the "Uwuize-Chat" mod if you don't want text to be owo-ified.
 
 ## Mod List
 
@@ -220,7 +218,6 @@ The primary goal of this modpack is making something fun and balanced that doesn
 - [MrCrayfish&#39;s Furniture Mod (by MrCrayfish)](https://www.curseforge.com/minecraft/mc-mods/mrcrayfish-furniture-mod)
 - [Bamboo Everything (Forge) (by Gaz\_)](https://www.curseforge.com/minecraft/mc-mods/bamboo-everything-forge)
 - [Macaw&#39;s Paintings (by sketch\_macaw)](https://www.curseforge.com/minecraft/mc-mods/macaws-paintings)
-- [Uwuize-Chat (by schoolboy215)](https://www.curseforge.com/minecraft/mc-mods/uwuize-chat)
 - [ForgeEndertech (by EnderLanky)](https://www.curseforge.com/minecraft/mc-mods/forgeendertech)
 - [Cooking for Blockheads (by BlayTheNinth)](https://www.curseforge.com/minecraft/mc-mods/cooking-for-blockheads)
 - [Controllable (by MrCrayfish)](https://www.curseforge.com/minecraft/mc-mods/controllable)
@@ -274,3 +271,4 @@ The primary goal of this modpack is making something fun and balanced that doesn
 - [BetterEnd Reforked by someoneelsewastaken](https://www.curseforge.com/minecraft/mc-mods/betterend-re-forked)
 - [Double Slabs by CJMinecraft01](https://www.curseforge.com/minecraft/mc-mods/double-slabs)
 - [Improved Windows by CreepSkeet\_](https://www.curseforge.com/minecraft/mc-mods/improved-windows)
+- [Better mobGriefing GameRule by Judge40](https://www.curseforge.com/minecraft/mc-mods/better-mobgriefing-gamerule)
