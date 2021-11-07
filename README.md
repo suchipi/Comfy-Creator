@@ -115,7 +115,10 @@ The primary goal of this modpack is making something fun and balanced that doesn
 - Click on the "import" link in "Or import a previously created profile"
 - In the select file dialog it opens, choose the zip you downloaded
 - Wait for it to download everything and install
+- Optional step: change the amount of RAM allocated to minecraft in CurseForge's minecraft settings (the more you can give it, the better)
 - Hover over the newly-created modpack, and click Play!
+- It'll launch the minecraft launcher, which you can press play in.
+- If it says "there is a new launcher", ignore it
 - To upgrade to a new version of the modpack later, repeat these instructions.
 
 ## Installation Instructions (Server)
