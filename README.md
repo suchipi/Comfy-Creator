@@ -270,7 +270,7 @@ The primary goal of this modpack is making something fun and balanced that doesn
 - [Bad Mobs (by DarkhaxDev)](https://www.curseforge.com/minecraft/mc-mods/bad-mobs)
 - [Origins (Forge) by EdwinMindcraft](https://www.curseforge.com/minecraft/mc-mods/origins-forge)
 - [Caelus API (Forge) by TheIllusiveC4](https://www.curseforge.com/minecraft/mc-mods/caelus)
-- [BetterEnd Reforked by someoneelsewastaken](https://www.curseforge.com/minecraft/mc-mods/betterend-re-forked)
+- [BetterEnd (Forge) by Beethoven92](https://www.curseforge.com/minecraft/mc-mods/betterend-forge-port)
 - [Double Slabs by CJMinecraft01](https://www.curseforge.com/minecraft/mc-mods/double-slabs)
 - [Improved Windows by CreepSkeet\_](https://www.curseforge.com/minecraft/mc-mods/improved-windows)
 - [Better mobGriefing GameRule by Judge40](https://www.curseforge.com/minecraft/mc-mods/better-mobgriefing-gamerule)
