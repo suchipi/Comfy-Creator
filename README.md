@@ -69,7 +69,6 @@ The primary goal of this modpack is making something fun and balanced that doesn
     - Create a witch's cauldron and brew things
 - Create Stargate-like portals for warping across large distances (even between dimensions). 
 - Energy-based item storage (like a huge chest with a search bar).
-- Make blocks secretly something else; useful for hiding redstone, secret walls you can walk through, etc.
 - New structures generated in the world (out of vanilla blocks).
 - Sometimes there's valuable items frozen in the ice!
 - Right-click on any sign to edit it.
@@ -92,7 +91,7 @@ The primary goal of this modpack is making something fun and balanced that doesn
 - There's more stuff to make out of bamboo.
 - Bonemeal works on things it doesn't normally work on, like nether wart.
 - There is an item called the Plopper which will pick up items around it right before they despawn. You can use it to avoid losing stuff, or as a way to gather items into an inventory.
-- There's a lot of different foods to make.
+- Lots of new cooking recipes and foods!
 - There's partial gamepad support, but some things like Create's mousewheel stuff don't work with it.
 - Bedrock generates 100% flat at the bottom of the world instead of the normal way.
 - Crouch while looking at a chest to see its contents.
@@ -103,6 +102,12 @@ The primary goal of this modpack is making something fun and balanced that doesn
 - You can craft coal into 8 mini-coal, which each can smelt one item. This helps you avoid wasting coal.
 - You can combine two slabs into the same block.
 - You can put window panes and iron bars inside of stair/slab blocks.
+- You can put your XP into bottles to save for later.
+- A portable 3x3 crafting table item
+- Lots of clientside tweaks to refine your experience; hide shields, auto-climb ladders after pressing W, etc
+- Beaches won't get messed up when you break blocks on their shore; (they'll make source blocks instead of flowing blocks)
+- Hold alt and mousewheel to swap items between your inventory rows and hotbar without opening your inventory. Crouch and hold alt to swap an entire row!
+- You can cook chicken eggs. Finally, eggs are edible.
 - And more, since I probably forgot stuff :p
 
 ## Installation Instructions (Client)
@@ -146,7 +151,6 @@ The primary goal of this modpack is making something fun and balanced that doesn
 - Steal a mob spawner and move it somewhere else! (Figuring out how to do this one is tough, but possible. And no, it's not Silk Touch)
 - Build a battery-powered lightning staff to defeat your foes with, and find a way to charge it!
 - Wear a silly mask!
-- Make a room with lots of secrets and fake walls/floors. Use hidden pressure plates, too!
 - Run redstone right up the walls to hide contraptions more easily (use the redstone pen or redstone quill)
 - Use Applied Energistics 2 to solve your item organization problems!
 - Build a traditional Japanese village!
@@ -160,6 +164,7 @@ The primary goal of this modpack is making something fun and balanced that doesn
 - Wear a warlock's hat and show it off to your friends!
 - Build a complex ventilation shaft system, then roleplay a heist with your friends!
 - Use dark rituals to speed up the sun and surprise your friends!
+- Make a home among the danger and beauty of the new End biomes.
 
 ## Known Problems
 
@@ -169,7 +174,6 @@ The primary goal of this modpack is making something fun and balanced that doesn
 - If you put a Portality portal in a chunk loaded by a chunk loader, undesirable and potentially server-crashing behavior can occur. To avoid this, never use Portality portals in chunk-loaded chunks.
   - Specifically: When you dial another portal, Portality forceloads the chunk where the other portal is. When the connection is closed, both ends get un-forceloaded. This can be bad if there is a chunk loader in the same chunk as one of the portals, because the chunkloader forceloads it, and the portal un-forceloads it, so it ends up not forceloaded even though there's a chunk loader in the chunk.
   - Additionally, if there's an item-creating farm in the chunk, and the portal disables its forceloading, and a chunk *adjacent* to the now-un-forceloaded chunk is forceloaded, then the chunk with the item farm will now [be "Ticking" but not "Entity Ticking"](https://minecraft.fandom.com/wiki/Chunk#Tickets), which means the item entities that are being created by the farm will never fall onto the appropriate hopper/lava/etc. This can end up crashing the server, because there's so many item entities in that chunk.
-- If you use the switch probe (from Secret Rooms) to assign unusual blocks to a Secret Door, colliding with it may crash your client.
 
 ## Mod List
 
@@ -182,7 +186,6 @@ The primary goal of this modpack is making something fun and balanced that doesn
 - [Rare Ice (Forge/Fabric) (by shedaniel)](https://www.curseforge.com/minecraft/mc-mods/rare-ice)
 - [Collective (Forge) (by Serilum)](https://www.curseforge.com/minecraft/mc-mods/collective)
 - [Morpheus (by Quetzi)](https://www.curseforge.com/minecraft/mc-mods/morpheus)
-- [SecretRoomsMod (by AbrarSyed)](https://www.curseforge.com/minecraft/mc-mods/secretroomsmod)
 - [Easy Magic (by Fuzs\_)](https://www.curseforge.com/minecraft/mc-mods/easy-magic)
 - [Botania (by Vazkii)](https://www.curseforge.com/minecraft/mc-mods/botania)
 - [Scorge (by illyohs)](https://www.curseforge.com/minecraft/mc-mods/scorge)
@@ -275,3 +278,9 @@ The primary goal of this modpack is making something fun and balanced that doesn
 - [Double Slabs by CJMinecraft01](https://www.curseforge.com/minecraft/mc-mods/double-slabs)
 - [Improved Windows by CreepSkeet\_](https://www.curseforge.com/minecraft/mc-mods/improved-windows)
 - [Better mobGriefing GameRule by Judge40](https://www.curseforge.com/minecraft/mc-mods/better-mobgriefing-gamerule)
+- [Bottle Your Xp (Forge) by Serilum](https://www.curseforge.com/minecraft/mc-mods/bottle-your-xp)
+- [Pam's HarvestCraft 2 - Food Core by pamharvestcraft](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-food-core)
+- [CraftingCraft by BlayTheNinth](https://www.curseforge.com/minecraft/mc-mods/craftingcraft)
+- [ClientTweaks by BlayTheNinth](https://www.curseforge.com/minecraft/mc-mods/client-tweaks)
+- [Pretty Beaches by BlayTheNinth](https://www.curseforge.com/minecraft/mc-mods/pretty-beaches)
+- [Inventory Hotswap by Areuthreateningme](https://www.curseforge.com/minecraft/mc-mods/inventory-hotswap)
