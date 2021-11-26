@@ -135,7 +135,7 @@ The primary goal of this modpack is making something fun and balanced that doesn
 - Click the three dots button on the right to open a dropdown menu
 - Click "Open Folder"
 - In the folder it opens, copy the "config" and "mods" folders to your server.
-- Run your Forge server normally.
+- Run your Forge server normally. NOTE: You need to use Oracle Java 8, for instance, "Version 8 Update 311" or 8u311.
 - To upgrade to a new version of the modpack later, repeat these instructions, then restart your server. If mods get removed in the new version you're upgrading to, make sure the removed mods don't remain in your server's mods folder, or else people won't be able to connect. Configs from removed mods don't hurt anything, though.
 
 ## Ideas of Things to Do with Comfy Creator
