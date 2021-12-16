@@ -67,6 +67,13 @@ The primary goal of this modpack is making something fun and balanced that doesn
     - Use dark magic to harvest the souls of the undead and summon mobs
     - Create a graveyard with special gravestone blocks
     - Create a witch's cauldron and brew things
+  - Christmas:
+    - New Christmas Music discs
+    - Lots of christmas food you can bake
+    - Wrap gifts and give them to players
+    - Get gifts from Santa each day
+    - Naughty/Nice system that affects what Santa gives you
+    - Lots of Christmas decoration items like trees, candy canes, chimneys, etc
 - Create Stargate-like portals for warping across large distances (even between dimensions). 
 - Energy-based item storage (like a huge chest with a search bar).
 - New structures generated in the world (out of vanilla blocks).
@@ -108,6 +115,7 @@ The primary goal of this modpack is making something fun and balanced that doesn
 - Beaches won't get messed up when you break blocks on their shore; (they'll make source blocks instead of flowing blocks)
 - Hold alt and mousewheel to swap items between your inventory rows and hotbar without opening your inventory. Crouch and hold alt to swap an entire row!
 - You can cook chicken eggs. Finally, eggs are edible.
+- Ping system: bound to V by default. Lets you point stuff out to other players.
 - And more, since I probably forgot stuff :p
 
 ## Installation Instructions (Client)
