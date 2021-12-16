@@ -292,3 +292,5 @@ The primary goal of this modpack is making something fun and balanced that doesn
 - [ClientTweaks by BlayTheNinth](https://www.curseforge.com/minecraft/mc-mods/client-tweaks)
 - [Pretty Beaches by BlayTheNinth](https://www.curseforge.com/minecraft/mc-mods/pretty-beaches)
 - [Inventory Hotswap by Areuthreateningme](https://www.curseforge.com/minecraft/mc-mods/inventory-hotswap)
+- [Christmas Spirit (Forge) by TheRealCalemi](https://www.curseforge.com/minecraft/mc-mods/christmas-spirit)
+- [Ping by Girafi](https://www.curseforge.com/minecraft/mc-mods/ping)
