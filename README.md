@@ -58,14 +58,12 @@ The primary goal of this modpack is making something fun and balanced that doesn
 - Energy creation machines; hand cranks, fuel burning, windmills, nuclear power, etc.
 - Systems for transferring items, fluids (including potions), and energy.
 - Build machines out of cogs and shafts (like [Lego Technic](https://en.wikipedia.org/wiki/Lego_Technic)), to make things move and farm resources.
-- Only adds four new ores to the worldgen (cause I don't like when there's a bunch of weird ores).
 - Use the Morphing Tool to keep all your tools in the same inventory slot, so you have more hotbar space.
 - You can put a shulker box on your back (via curio slot) and press X to open its inventory.
 - Holiday-themed stuff (will add more over time)
   - Halloween:
     - Carve all kinds of different pumpkins and jack-o-lanterns
     - Use dark magic to harvest the souls of the undead and summon mobs
-    - Create a graveyard with special gravestone blocks
     - Create a witch's cauldron and brew things
   - Christmas:
     - New Christmas Music discs
@@ -116,6 +114,18 @@ The primary goal of this modpack is making something fun and balanced that doesn
 - Hold alt and mousewheel to swap items between your inventory rows and hotbar without opening your inventory. Crouch and hold alt to swap an entire row!
 - You can cook chicken eggs. Finally, eggs are edible.
 - Ping system: bound to V by default. Lets you point stuff out to other players.
+- Compass and waypoints system (press L to open waypoints list)
+- Atlases (old-timey maps that you can pan/zoom)
+- Use a book to learn magic spells, then cast them to defeat your enemies!
+- New dimensions!
+- Get little lizard pets
+- Write programs and run them on in-game computers
+- Customize your player model by going further than normal Minecraft skins could
+- Press B to use a tool to assist you in building walls, floors, lines, and more
+- Explore tons of new biomes!
+- Use alchemy to transmute materials into different materials!
+- Use guns to defeat enemies from afar
+- Loot chests are instanced per-player!
 - And more, since I probably forgot stuff :p
 
 ## Installation Instructions (Client)
@@ -137,13 +147,13 @@ The primary goal of this modpack is making something fun and balanced that doesn
 ## Installation Instructions (Server)
 
 - Install the Client first (instructions above)
-- Create a Minecraft Forge server using this version: `forge-1.16.5-36.1.10.jar`
+- Create a Minecraft Forge server using this version: `forge-1.16.5-36.2.39.jar`
 - Open the CurseForge app and navigate to your minecraft modpacks
 - Click on the image for the Comfy Creator modpack to view the modpack page
 - Click the three dots button on the right to open a dropdown menu
 - Click "Open Folder"
 - In the folder it opens, copy the "config" and "mods" folders to your server.
-- Run your Forge server normally. NOTE: You need to use Oracle Java 8, for instance, "Version 8 Update 311" or 8u311.
+- Run your Forge server normally. NOTE: You need to use Oracle Java 8, for instance, "Version 8 Update 311" or 8u311. Java 15 should also work, but NOT Java 20.
 - To upgrade to a new version of the modpack later, repeat these instructions, then restart your server. If mods get removed in the new version you're upgrading to, make sure the removed mods don't remain in your server's mods folder, or else people won't be able to connect. Configs from removed mods don't hurt anything, though.
 
 ## Ideas of Things to Do with Comfy Creator
@@ -197,7 +207,6 @@ The primary goal of this modpack is making something fun and balanced that doesn
 - [Easy Magic (by Fuzs\_)](https://www.curseforge.com/minecraft/mc-mods/easy-magic)
 - [Botania (by Vazkii)](https://www.curseforge.com/minecraft/mc-mods/botania)
 - [Scorge (by illyohs)](https://www.curseforge.com/minecraft/mc-mods/scorge)
-- [VerticalSlabs (by Kriaga)](https://www.curseforge.com/minecraft/mc-mods/verticalslabs)
 - [Bedspreads (Forge) (by TheIllusiveC4)](https://www.curseforge.com/minecraft/mc-mods/bedspreads)
 - [Powah! (by owmii)](https://www.curseforge.com/minecraft/mc-mods/powah)
 - [Cycle Paintings (Forge) (by Serilum)](https://www.curseforge.com/minecraft/mc-mods/cycle-paintings)
@@ -211,12 +220,10 @@ The primary goal of this modpack is making something fun and balanced that doesn
 - [Better Advancements (by way2muchnoise)](https://www.curseforge.com/minecraft/mc-mods/better-advancements)
 - [Double Doors (Forge) (by Serilum)](https://www.curseforge.com/minecraft/mc-mods/double-doors)
 - [MmmMmmMmmMmm (by MehVahdJukaar)](https://www.curseforge.com/minecraft/mc-mods/mmmmmmmmmmmm)
-- [Arky&#39;s Halloween Mod (by arky3001)](https://www.curseforge.com/minecraft/mc-mods/arkys-halloween-cemetery-mod-1-16-x)
 - [BiomeInfo (by bl4ckscor3)](https://www.curseforge.com/minecraft/mc-mods/biomeinfo)
 - [Eidolon (by elucent\_)](https://www.curseforge.com/minecraft/mc-mods/eidolon)
 - [Portality (by Buuz135)](https://www.curseforge.com/minecraft/mc-mods/portality)
 - [Two Players One Horse (by Beethoven92)](https://www.curseforge.com/minecraft/mc-mods/two-players-one-horse)
-- [Chunk Loaders (by SuperMartijn642)](https://www.curseforge.com/minecraft/mc-mods/chunk-loaders)
 - [EditSign (Forge&amp;Fabric) (by RakSrinaNa)](https://www.curseforge.com/minecraft/mc-mods/edit-sign)
 - [Oh My Gourd (by TeamCoFH)](https://www.curseforge.com/minecraft/mc-mods/oh-my-gourd)
 - [Curios API (Forge) (by TheIllusiveC4)](https://www.curseforge.com/minecraft/mc-mods/curios)
@@ -294,3 +301,37 @@ The primary goal of this modpack is making something fun and balanced that doesn
 - [Inventory Hotswap by Areuthreateningme](https://www.curseforge.com/minecraft/mc-mods/inventory-hotswap)
 - [Christmas Spirit (Forge) by TheRealCalemi](https://www.curseforge.com/minecraft/mc-mods/christmas-spirit)
 - [Ping by Girafi](https://www.curseforge.com/minecraft/mc-mods/ping)
+- [Advanced Compass](https://www.curseforge.com/minecraft/mc-mods/advanced-compass)
+- [Antique Atlas](https://www.curseforge.com/minecraft/mc-mods/antique-atlas)
+- [Ars Nouveau](https://www.curseforge.com/minecraft/mc-mods/ars-nouveau)
+- [Betterlands](https://www.curseforge.com/minecraft/mc-mods/betterlands)
+- [Blue Skies](https://www.curseforge.com/minecraft/mc-mods/blue-skies)
+- [Buddies!](https://www.curseforge.com/minecraft/mc-mods/buddies-for-baby)
+- [Buzzier Bees](https://www.curseforge.com/minecraft/mc-mods/buzzier-bees)
+- [CC: Tweaked](https://www.curseforge.com/minecraft/mc-mods/cc-tweaked)
+- [Chipped](https://www.curseforge.com/minecraft/mc-mods/chipped)
+- [Configured](https://www.curseforge.com/minecraft/mc-mods/configured)
+- [Controlling](https://www.curseforge.com/minecraft/mc-mods/controlling)
+- [Customizable Player Models](https://www.curseforge.com/minecraft/mc-mods/custom-player-models)
+- [Effortless Building](https://www.curseforge.com/minecraft/mc-mods/effortless-building)
+- [Enhanced Celestials](https://www.curseforge.com/minecraft/mc-mods/enhanced-celestials)
+- [Farsight](https://www.curseforge.com/minecraft/mc-mods/farsight)
+- [Guns Without Roses](https://www.curseforge.com/minecraft/mc-mods/guns-without-roses)
+- [Lootr](https://www.curseforge.com/minecraft/mc-mods/lootr)
+- [Macaw's Furniture](https://www.curseforge.com/minecraft/mc-mods/macaws-furniture)
+- [Macaw's Lights and Lamps](https://www.curseforge.com/minecraft/mc-mods/macaws-lights-and-lamps)
+- [Macaw's Paths and Pavings](https://www.curseforge.com/minecraft/mc-mods/macaws-paths-and-pavings)
+- [Macaw's Trapdoors](https://www.curseforge.com/minecraft/mc-mods/macaws-trapdoors)
+- [Macaw's Windows](https://www.curseforge.com/minecraft/mc-mods/macaws-windows)
+- [Neko's Enchanted Books](https://www.curseforge.com/minecraft/mc-mods/nekos-enchanted-books)
+- [Oh The Biomes You'll Go](https://www.curseforge.com/minecraft/mc-mods/oh-the-biomes-youll-go)
+- [Packing Tape](https://www.curseforge.com/minecraft/mc-mods/packing-tape)
+- [Physics Mod](https://www.curseforge.com/minecraft/mc-mods/physics-mod)
+- [Plushie Mod](https://www.curseforge.com/minecraft/mc-mods/plushie-mod)
+- [ProjectE](https://www.curseforge.com/minecraft/mc-mods/projecte)
+- [Shroomed](https://www.curseforge.com/minecraft/mc-mods/shroomed)
+- [Simply Light](https://www.curseforge.com/minecraft/mc-mods/simply-light)
+- [Skin Swapper](https://www.curseforge.com/minecraft/mc-mods/skin-swapper)
+- [Mobvotes Sniffer](https://www.curseforge.com/minecraft/mc-mods/mobvotes-sniffer)
+- [Torchmaster](https://www.curseforge.com/minecraft/mc-mods/torchmaster)
+- [Unusual Drill](https://www.curseforge.com/minecraft/mc-mods/unusual-drill)
